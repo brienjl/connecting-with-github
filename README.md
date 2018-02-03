@@ -1,4 +1,4 @@
-# Connecting With Github
+# Connecting With GitHub
 
 It's time to connect your Learn account to your GitHub account. What's GitHub? **GitHub is how people build software**. It's a platform for developers all over the world to share code and work together. As a professional developer you will use GitHub. So, as an aspiring developer we think you should use it too!
 
